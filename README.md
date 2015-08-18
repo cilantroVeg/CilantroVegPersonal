@@ -14,7 +14,7 @@ For Ruby on Rails, Cloudinary provides a GEM for simplifying the integration eve
 ## Getting started guide
 ![More](http://res.cloudinary.com/cloudinary/image/upload/see_more_bullet.png)  **Take a look at our [Getting started guide of Ruby on Rails](http://cloudinary.com/documentation/rails_integration#getting_started_guide)**.
 
-## Setup ######################################################################
+### Setup ######################################################################
 
 To install the Cloudinary Ruby GEM, run:
 
