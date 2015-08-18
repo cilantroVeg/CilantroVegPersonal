@@ -31,7 +31,8 @@ Gem::Specification.new do |s|
   else
     s.add_dependency "i18n", "<0.7.0"
     s.add_dependency "rest-client", "<=1.6.8"
-    s.add_development_dependency "actionpack", "~>3.2.0"
+    s.add_dependency "actionpack", "~>3.2.0"
+    s.add_dependency "simplecov"
   end
 
 end
